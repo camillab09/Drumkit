@@ -26,6 +26,9 @@ body {
   margin-top: 20px;
   box-shadow: 5px 8px 8px rgb(87, 85, 85);
 }
+p {
+  font-size: small;
+}
 #drumkit {
   padding: 20px;
   display: flex;
