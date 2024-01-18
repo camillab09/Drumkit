@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+body {
+  background-color: grey;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  border: 3px double black;
+  padding: 5px;
+}
+.container {
+  background-color: black;
+  border-radius: 20px;
+  height: 400px;
+  width: 500px;
+  margin-top: 20px;
+  box-shadow: 5px 8px 8px rgb(87, 85, 85);
+}
+#drumkit {
+  padding: 20px;
+  display: flex;
+  gap: 10px 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  width: 60px;
+  height: 60px;
+  margin: 0px;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+#drumkit-random {
+  width: max-content;
+  padding: 4px;
+  margin-left: 30%;
+  background-image: linear-gradient(
+    to left,
+    rgb(242, 29, 242),
+    rgb(238, 71, 166),
+    rgb(64, 8, 207)
+  );
+}
+#drumBtn-1 {
+  background-color: rgb(248, 248, 35);
+}
+#drumBtn-1:hover {
+  background-color: white;
+}
+#drumBtn-2 {
+  background-color: rgb(21, 255, 0);
+}
+#drumBtn-2:hover {
+  background-color: white;
+}
+#drumBtn-3 {
+  background-color: rgb(0, 247, 255);
+}
+#drumBtn-3:hover {
+  background-color: white;
+}
+#drumBtn-4 {
+  background-color: rgb(13, 143, 212);
+}
+#drumBtn-4:hover {
+  background-color: white;
+}
+#drumBtn-5 {
+  background-color: rgb(21, 62, 211);
+}
+#drumBtn-5:hover {
+  background-color: white;
+}
+#drumBtn-6 {
+  background-color: rgb(144, 0, 255);
+}
+#drumBtn-6:hover {
+  background-color: white;
+}
+#drumBtn-7 {
+  background-color: rgb(255, 0, 242);
+}
+#drumBtn-7:hover {
+  background-color: white;
+}
+#drumBtn-8 {
+  background-color: rgb(255, 0, 187);
+}
+#drumBtn-8:hover {
+  background-color: white;
+}
+#drumBtn-9 {
+  background-color: rgb(255, 0, 123);
+}
+#drumBtn-9:hover {
+  background-color: white;
+}
+#drumBtn-10 {
+  background-color: rgb(255, 0, 60);
+}
+#drumBtn-10:hover {
+  background-color: white;
+}
+#drumBtn-11 {
+  background-color: rgb(255, 85, 0);
+}
+#drumBtn-11:hover {
+  background-color: white;
+}
+
+#drumBtn-12 {
+  background-color: rgb(255, 157, 0);
+}
+#drumBtn-12:hover {
+  background-color: white;
+}
+#drumBtn-13 {
+  background-color: rgb(255, 196, 0);
+}
+#drumBtn-13:hover {
+  background-color: white;
+}
+#drumBtn-14 {
+  background-color: rgb(248, 248, 35);
+}
+#drumBtn-14:hover {
+  background-color: white;
+}
+#drumBtn-15 {
+  background-color: rgb(21, 255, 0);
+}
+#drumBtn-15:hover {
+  background-color: white;
+}
+#drumBtn-16 {
+  background-color: rgb(0, 247, 255);
+}
+#drumBtn-16:hover {
+  background-color: white;
+}
+#drumBtn-17 {
+  background-color: rgb(13, 143, 212);
+}
+#drumBtn-17:hover {
+  background-color: white;
+}
+#drumBtn-18 {
+  background-color: rgb(21, 62, 211);
+}
+#drumBtn-18:hover {
+  background-color: white;
+}
+#drumBtn-19 {
+  background-color: rgb(144, 0, 255);
+}
+#drumBtn-19:hover {
+  background-color: white;
+}
+#drumBtn-20 {
+  background-color: rgb(255, 0, 242);
+}
+#drumBtn-20:hover {
+  background-color: white;
+}
+#drumBtn-21 {
+  background-color: rgb(255, 0, 187);
+}
+#drumBtn-21:hover {
+  background-color: white;
+}
+#drumBtn-22 {
+  background-color: rgb(255, 0, 123);
+}
+#drumBtn-22:hover {
+  background-color: white;
+}
+#drumBtn-23 {
+  background-color: rgb(255, 0, 60);
+}
+#drumBtn-23:hover {
+  background-color: white;
+}
+#drumBtn-24 {
+  background-color: rgb(255, 85, 0);
+}
+#drumBtn-24:hover {
+  background-color: white;
+}
